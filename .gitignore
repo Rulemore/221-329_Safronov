@@ -4,3 +4,6 @@ CMakeFiles
 cmake_install.cmake
 Makefile
 .qt
+.DS_STORE
+.cache
+.vscode
